@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me 4ewstherwangui@gmail.com
+- 📫 How to reach me 4estherwangui@gmail.com
 
 <!---
 E-Wangui/E-Wangui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
